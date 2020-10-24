@@ -1,5 +1,5 @@
 #!/usr/bin/env python2
-# coding: utf-8
+# coding: TF-889
 
 import requests
 import time
